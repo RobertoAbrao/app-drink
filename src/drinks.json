@@ -1,0 +1,302 @@
+[
+  {
+    "numero": "50",
+    "nome": "Pisco Punch",
+    "ingredientes": "60 ml de Pisco; 30 ml de suco de limão fresco; 30 ml de xarope simples (uma mistura de açúcar e água na proporção 1:1); Gelo",
+    "modo_preparo": "Para preparar o coquetel, adicione todos os ingredientes em uma coqueteleira com gelo e agite vigorosamente. Coe o líquido em um copo com gelo e decore com uma fatia de limão."
+  },
+  {
+    "numero": "49",
+    "nome": "Sidecar",
+    "ingredientes": "50 ml de brandy; 20 ml de licor de laranja (como Cointreau ou Grand Marnier); 20 ml de suco de limão fresco; Gelo",
+    "modo_preparo": "Coloque todos os ingredientes em uma coqueteleira com gelo. Agite vigorosamente por cerca de 15 segundos. Coe a mistura em uma taça de coquetel previamente gelada. Decore com uma fatia de limão ou casca de laranja."
+  },
+  {
+    "numero": "48",
+    "nome": "Corpse Riviver #2",
+    "ingredientes": "30 ml de gin seco; 30 ml de licor de laranja (como Cointreau ou Grand Marnier); 30 ml de vermute branco seco; 30 ml de suco de limão fresco; 1 pitada de absinto ou outro destilado à base de ervas (como Pernod); Casca de limão para decorar",
+    "modo_preparo": "Adicione todos os ingredientes em uma coqueteleira com gelo e agite bem por cerca de 15 segundos. Coe o líquido em uma taça de coquetel resfriada e decore com uma casca de limão torcida sobre o copo."
+  },
+  {
+    "numero": "47",
+    "nome": "Blood & Sand",
+    "ingredientes": "30 ml de uísque escocês; 30 ml de suco de laranja fresco; 30 ml de vermute doce; 30 ml de xarope de grenadine; Gelo; Casca de laranja",
+    "modo_preparo": "Encha uma coqueteleira com gelo e adicione o uísque escocês, o suco de laranja fresco, o vermute doce e o xarope de grenadine. Agite vigorosamente a coqueteleira por cerca de 10 segundos para misturar bem os ingredientes e coe a mistura para um copo de coquetel previamente resfriado. Decore o coquetel com uma casca de laranja torcida e sirva."
+  },
+  {
+    "numero": "46",
+    "nome": "Tommy's Margarita",
+    "ingredientes": "60 ml de tequila 100% agave; 30 ml de suco de limão fresco; 15 ml de xarope de agave; Gelo; Sal para a borda",
+    "modo_preparo": "Encha uma coqueteleira com gelo. Adicione a tequila, o suco de limão fresco e o xarope de agave na coqueteleira. Agite vigorosamente por cerca de 15 segundos. Molhe a borda de um copo com suco de limão e mergulhe-a em um prato com sal. Coe o coquetel na borda salgada do copo. Decore com uma fatia de limão e sirva imediatamente."
+  },
+  {
+    "numero": "45",
+    "nome": "Irish Coffee",
+    "ingredientes": "1 xícara de café quente; 1 colher de chá de açúcar mascavo; 50 ml de uísque irlandês; Creme de leite fresco batido; Canela em pó (opcional)",
+    "modo_preparo": "No café adicione o açúcar e 50 ml de uísque irlandês e misture bem. Despeje cuidadosamente o creme de leite fresco batido por cima do café. Se quiser, polvilhe um pouco de canela em pó por cima do creme de leite. Sirva imediatamente, para que o creme de leite mantenha a sua textura cremosa."
+  },
+  {
+    "numero": "44",
+    "nome": "Bobby Burns",
+    "ingredientes": "60 ml de uísque escocês; 30 ml de vermute doce; 7,5 ml de Bénédictine; Casca de limão siciliano",
+    "modo_preparo": "Para preparar o coquetel, basta misturar todos os ingredientes em um copo com gelo e mexer bem. Em seguida, coe o coquetel em um copo de coquetel resfriado e decore com uma casca de limão siciliano."
+  },
+  {
+    "numero": "43",
+    "nome": "Last Word",
+    "ingredientes": "30 ml de gim seco; 30 ml de suco de limão fresco; 30 ml de Chartreuse verde; 30 ml de maraschino",
+    "modo_preparo": "Para preparar o coquetel, basta misturar todos os ingredientes em um copo com gelo e mexer bem. Em seguida, coe o coquetel em um copo de coquetel resfriado e decore com uma cereja ao marasquino."
+  },
+  {
+    "numero": "42",
+    "nome": "Painkiller",
+    "ingredientes": "60 ml de rum escuro; 120 ml de suco de abacaxi; 30 ml de suco de laranja; 30 ml de creme de coco; Noz-moscada ralada na hora; Gelo",
+    "modo_preparo": "Encha um copo com gelo. Adicione o rum escuro, o suco de abacaxi, o suco de laranja e o creme de coco no copo. Mexa tudo com uma colher para misturar bem. Rale um pouco de noz-moscada fresca na superfície do coquetel. Sirva imediatamente."
+  },
+  {
+    "numero": "41",
+    "nome": "Ti' Punch",
+    "ingredientes": "60 ml de rum; 1/2 limão; 10 ml de xarope de cana; Gelo (opcional)",
+    "modo_preparo": "Comece espremendo o suco do meio limão em um copo baixo ou médio. Adicione o xarope de cana ao copo. Adicione o rum. Misture tudo com uma colher. Adicione gelo (se desejar). Decore com uma fatia de limão (Opcional). Sirva imediatamente."
+  },
+  {
+    "numero": "40",
+    "nome": "Hanky Panky",
+    "ingredientes": "45 ml de gin; 45 ml de vermute doce; 2 dashes (pequenas pitadas) de Fernet Branca; Casca de laranja para decorar",
+    "modo_preparo": "Para preparar o coquetel, coloque o gin, o vermute doce e o Fernet Branca em uma coqueteleira com gelo. Agite bem por cerca de 10 a 15 segundos até que a mistura esteja bem gelada. Em seguida, coe o coquetel em um copo de coquetel resfriado e decore com uma casca de laranja."
+  },
+  {
+    "numero": "39",
+    "nome": "Cosmopolitan",
+    "ingredientes": "45 ml de vodka; 30 ml de Cointreau; 30 ml de suco de cranberry; 15 ml de suco de limão; Gelo; Casca de laranja para decorar (opcional)",
+    "modo_preparo": "Encha uma coqueteleira com gelo e adicione todos os ingredientes. Agite vigorosamente por cerca de 15 segundos. Coe a mistura diretamente em uma taça de coquetel previamente resfriada. Para decorar, use uma casca de laranja e torça-a sobre o coquetel para liberar os óleos essenciais da fruta. Esfregue a casca na borda da taça e coloque-a sobre o coquetel."
+  },
+  {
+    "numero": "38",
+    "nome": "Ramos Gin Fizz",
+    "ingredientes": "60 ml de gin; 15 ml de suco de limão; 15 ml de suco de limão siciliano; 15 ml de xarope simples; 30 ml de creme de leite; 1 clara de ovo; Água com gás; Cubos de gelo",
+    "modo_preparo": "Coloque todos os ingredientes, exceto a água com gás e o gelo, em uma coqueteleira e agite vigorosamente por um minuto. Adicione gelo e agite por três minutos. Coe a mistura em um copo alto com gelo fresco e complete com água com gás. Decore com uma fatia de limão ou laranja."
+  },
+  {
+    "numero": "37",
+    "nome": "Bellini",
+    "ingredientes": "2 pêssegos brancos maduros; 120 ml de champanhe ou prosecco gelado; Gelo picado",
+    "modo_preparo": "Coloque o pêssego descascado e picado num liquidificador e bata até obter um purê suave. Coloque cerca de 2 colheres de sopa de purê de pêssego numa taça. Adicione gelo picado até preencher cerca de 1/3 da taça. Despeje delicadamente champanhe ou prosecco gelado na taça e mexa suavemente com uma colher. Decore com uma fatia fina de pêssego na borda da taça e sirva imediatamente."
+  },
+  {
+    "numero": "36",
+    "nome": "Bee's Knees",
+    "ingredientes": "60 ml de gin; 22 ml de suco de limão fresco; 15 ml de mel",
+    "modo_preparo": "Misture todos os ingredientes em uma coqueteleira com gelo e agite bem. Coe a mistura em um copo ou taça resfriada e sirva com uma casca de limão para decorar."
+  },
+  {
+    "numero": "35",
+    "nome": "Long Island Iced Tea",
+    "ingredientes": "15 ml de vodka; 15 ml de gin; 15 ml de rum branco; 15 ml de tequila; 15 ml de triple sec (licor de laranja); 30 ml de suco de limão fresco; 15 ml de xarope simples; Coca-Cola; Gelo; Fatia de limão",
+    "modo_preparo": "Encha um copo alto com gelo. Adicione a vodka, gin, rum, tequila, triple sec, suco de limão e xarope simples ao copo. Mexa bem até que todos os ingredientes estejam combinados. Adicione a Coca-Cola ao copo até que o copo esteja cheio. Decore com uma fatia de limão e sirva."
+  },
+  {
+    "numero": "34",
+    "nome": "Aviation",
+    "ingredientes": "45 ml de gin; 15 ml de suco de limão fresco; 7,5 ml de licor de maraschino; 7,5 ml de crème de violette; Gelo",
+    "modo_preparo": "Adicione todos os ingredientes de violette em uma coqueteleira e agite vigorosamente. Coe o coquetel em uma taça resfriada. Decore com uma casca de limão ou uma cereja. O crème de violette é um ingrediente chave do coquetel Aviation. É um licor que é feito com flores de violeta e açúcar e adiciona um sabor floral ao coquetel."
+  },
+  {
+    "numero": "33",
+    "nome": "Vesper",
+    "ingredientes": "45 ml de gin; 15 ml de vodka; 7,5 ml de Kina Lillet (ou substituto semelhante); Gelo; Fatia de limão para decorar",
+    "modo_preparo": "Adicione todos os ingredientes na coqueteleira e agite bem por 15 segundos. Coar o coquetel na taça de martini resfriada. Decore com uma fatia de limão e sirva imediatamente. Caso você não tenha Kina Lillet, pode substituí-lo por um aperitivo semelhante, como Lillet Blanc ou Cocchi Americano."
+  },
+  {
+    "numero": "32",
+    "nome": "Old Cuban",
+    "ingredientes": "50 ml de rum envelhecido; 20 ml de suco de limão fresco; 15 ml de xarope simples (proporção de 1:1); 6 folhas de hortelã; 2 dashes de Angostura; Champanhe ou espumante gelado; Gelo",
+    "modo_preparo": "Num copo, coloque as folhas de hortelã, o suco de limão e o xarope simples. Amasse delicadamente com um socador de coquetel. Adicione o rum, angostura bitters, gelo até a metade do copo e mexa bem com uma colher de bar por cerca de 10 segundos. Coloque uma peneira sobre a boca de uma taça coupé e despeje a mistura do copo misturador sobre ela. Descarte o gelo e as folhas de hortelã. Complete a taça com champanhe ou espumante gelado e mexa levemente com uma colher de bar. Para finalizar, decore o coquetel com uma folha de hortelã e uma fatia de limão."
+  },
+  {
+    "numero": "31",
+    "nome": "Vodka Martini",
+    "ingredientes": "60 ml de vodka; 15 ml de vermute seco; Gelo; Uma azeitona ou fatia de limão para guarnição",
+    "modo_preparo": "Coloque a vodka e o vermute seco em um copo misturador com gelo. Mexa bem com uma colher de bar por cerca de 10 segundos. Coe a mistura em uma taça de martini gelada. Guarnição com uma azeitona ou fatia de limão."
+  },
+  {
+    "numero": "30",
+    "nome": "Corpse Riviver",
+    "ingredientes": "15 ml de conhaque; 15 ml de calvados (destilado a base de maçã); 15 ml de vermute doce; 15 ml de suco de limão; Uma pitada de absinto",
+    "modo_preparo": "Encha uma coqueteleira com gelo. Adicione o conhaque, o calvados, o vermute doce e o suco de limão. Agite bem e coe em uma taça de coquetel gelada. Adicione uma pitada de absinto na superfície do coquetel. Decore com uma casca de limão."
+  },
+  {
+    "numero": "29",
+    "nome": "Sazerac",
+    "ingredientes": "1 cubo de açúcar; 2 dashes de Peychaud's; 1 dash de angostura bitters; 60 ml de whisky de centeio; Pitada de absinto; Casca de limão; Gelo",
+    "modo_preparo": "Coloque o cubo de açúcar em um copo de vidro de fundo grosso e adicione os bitters. Amasse até formar uma pasta. Adicione o whisky e mexa bem até dissolver. Adicione uma pedra de gelo e mexa novamente. Enxágue um copo de coquetel com absinto e descarte o excesso. Coe a mistura do copo de vidro para o copo de coquetel enxaguado com absinto. Pressione a casca de limão sobre o copo e passe a borda do copo com a casca."
+  },
+  {
+    "numero": "28",
+    "nome": "Zombie",
+    "ingredientes": "30 ml de rum branco; 30 ml de rum dourado; 30 ml de rum 151; 15 ml de xarope de açúcar; 15 ml de licor de laranja; 30 ml de suco de limão; 30 ml de suco de abacaxi; 1 dash de grenadine; 1 dash de Angostura bitters; 7,5 ml de absinto",
+    "modo_preparo": "Adicione todos os ingredientes em uma coqueteleira com gelo. Agite bem até que a coqueteleira fique gelada e embaçada. Coe o coquetel em um copo alto cheio de gelo picado. Decore com folhas de hortelã."
+  },
+  {
+    "numero": "27",
+    "nome": "Vieux Carré",
+    "ingredientes": "30 ml de uísque; 30 ml de conhaque; 30 ml de vermute doce; 7,5 ml de licor de maraschino; 2 dashes de Angostura Bitters; 2 dashes de Peychaud's Bitters; Casca de limão siciliano",
+    "modo_preparo": "Adicione todos os ingredientes, exceto a casca de limão siciliano, em um mixing glass com gelo. Mexa bem até que o coquetel esteja gelado e bem misturado. Coe o coquetel em um copo baixo ou um copo old-fashioned com gelo. Decore com uma casca de limão siciliano."
+  },
+  {
+    "numero": "26",
+    "nome": "Amaretto Sour",
+    "ingredientes": "45 ml de Amaretto; 30 ml de suco de limão; 15 ml de xarope simples (proporção 1:1); 15 ml de clara de ovo (opcional); 2-3 dashes de bitters (opcional); Gelo; Cereja e fatia de limão para decorar",
+    "modo_preparo": "Adicione o amaretto, suco de limão, xarope simples e, se desejar, a clara de ovo em uma coqueteleira com gelo. Agite vigorosamente. Coe a mistura num copo baixo com gelo fresco. Se desejar, adicione 2-3 dashes de bitters e mexa delicadamente. Decore o coquetel com uma cereja e uma fatia de limão."
+  },
+  {
+    "numero": "25",
+    "nome": "Piña Colada",
+    "ingredientes": "60 ml de rum branco; 120 ml de suco de abacaxi; 60 ml de leite de coco; Gelo; Rodela de abacaxi e cereja para decorar",
+    "modo_preparo": "Adicione o rum, suco de abacaxi e leite de coco em um liquidificador com gelo. Bata até obter uma mistura homogênea e cremosa. Sirva em um copo alto com gelo fresco. Decore com uma rodela de abacaxi e uma cereja."
+  },
+  {
+    "numero": "24",
+    "nome": "Caipirinha",
+    "ingredientes": "1 limão tahiti cortado em cubos; 2 colheres (de sopa) de açúcar refinado; 60 ml de cachaça branca; Gelo",
+    "modo_preparo": "Corte o limão em cubos e coloque no copo (de preferência, um copo baixo). Adicione o açúcar e amasse levemente com um socador de madeira ou uma colher. Acrescente a cachaça e misture bem. Coloque o gelo até preencher o copo. Mexa novamente e sirva."
+  },
+  {
+    "numero": "23",
+    "nome": "Gin Fizz",
+    "ingredientes": "60 ml de gin; 30 ml de suco de limão fresco; 15 ml de xarope simples; 45 ml de água com gás; 1 clara de ovo; Gelo; Casca de limão para decorar",
+    "modo_preparo": "Adicione todos os ingredientes numa coqueteleira, exceto a água com gás, a casca com limão, clara de ovo e agite vigorosamente. Adicione a clara de ovo e agite novamente vigorosamente por cerca de 30 segundos. Coe a mistura em um copo alto cheio de gelo. Adicione a água com gás e misture delicadamente com uma colher longa. Decore com uma casca de limão."
+  },
+  {
+    "numero": "22",
+    "nome": "Dark'n Stormy",
+    "ingredientes": "60 ml de rum escuro; 120 ml de ginger beer; 15 ml de suco de limão; Gelo",
+    "modo_preparo": "Encha um copo alto com gelo. Adicione o rum escuro e o suco de limão no copo. Complete com ginger beer e mexa suavemente para misturar os ingredientes. Decore com uma fatia de limão."
+  },
+  {
+    "numero": "21",
+    "nome": "Clover Club",
+    "ingredientes": "60 ml de gin; 22,5 ml de suco de limão; 22,5 ml de xarope de framboesa; 15 ml de clara de ovo; 2 dashes de angostura",
+    "modo_preparo": "Em uma coqueteleira, adicione todos os ingredientes. Adicione cubos de gelo e agite vigorosamente por cerca de 10 segundos. Coe o conteúdo da coqueteleira em uma taça coupe previamente resfriada. Para decorar, adicione uma framboesa ou uma cereja no topo."
+  },
+  {
+    "numero": "20",
+    "nome": "Pisco Sour",
+    "ingredientes": "60 ml de Pisco; 30 ml de suco de limão; 15 ml de xarope de açúcar; 15 ml de clara de ovo; Gelo",
+    "modo_preparo": "Adicione o Pisco, suco de limão, xarope de açúcar e clara de ovo em uma coqueteleira. Adicione alguns cubos de gelo na coqueteleira e agite vigorosamente por 15 segundos. Despeje o conteúdo da coqueteleira num copo. Adicione mais cubos de gelo para preencher o copo. Decore com algumas gotas de angostura bitters, se desejar."
+  },
+  {
+    "numero": "19",
+    "nome": "Mai Tai",
+    "ingredientes": "60 ml de rum envelhecido; 30 ml de rum branco; 20 ml de suco de limão; 5 ml de xarope de açúcar; 10 ml de licor de laranja; 10 ml de licor de amêndoa",
+    "modo_preparo": "Coloque todos os ingredientes em uma coqueteleira com gelo. Agite bem por cerca de 10 a 15 segundos, até que a coqueteleira fique gelada ao toque. Coe o coquetel para um copo baixo cheio de gelo. Decore com um ramo de hortelã e uma fatia de limão."
+  },
+  {
+    "numero": "18",
+    "nome": "Gimlet",
+    "ingredientes": "60 ml de gin; 20 ml de suco de limão fresco; 15 ml de xarope de açúcar ou xarope de limão",
+    "modo_preparo": "Adicione o gin, suco de limão e xarope de açúcar (ou xarope de limão) em uma coqueteleira com gelo. Agite vigorosamente até a coqueteleira ficar bem gelada. Coe a mistura em um copo de coquetel resfriado. Decore com uma fatia de limão, se desejar."
+  },
+  {
+    "numero": "17",
+    "nome": "French 75",
+    "ingredientes": "30 ml de gin; 15 ml de suco de limão fresco; 15 ml de xarope de açúcar; Champanhe ou vinho espumante para completar (cerca de 90 ml)",
+    "modo_preparo": "Adicione o gin, suco de limão e xarope de açúcar em uma coqueteleira com gelo. Agite vigorosamente até a coqueteleira ficar bem gelada. Coe a mistura em uma taça de champanhe ou taça de vinho espumante gelada. Complete com champanhe ou vinho espumante, mexa delicadamente com uma colher e decore com uma fatia de limão."
+  },
+  {
+    "numero": "16",
+    "nome": "Americano",
+    "ingredientes": "45 ml de vermute doce; 45 ml de Campari; Água com gás para completar (cerca de 90 ml); Gelo; Fatia de laranja ou limão para decorar",
+    "modo_preparo": "Adicione o vermute doce e o Campari em um copo alto com gelo. Mexa suavemente com uma colher de bar para misturar bem. Adicione água com gás para completar o copo. Decore com uma fatia de laranja ou limão."
+  },
+  {
+    "numero": "15",
+    "nome": "Bloody Mary",
+    "ingredientes": "60 ml de vodka; 120 ml de suco de tomate; 15 ml de suco de limão; 5 ml de molho Worcestershire; 2 gotas de Tabasco; Uma pitada de sal e pimenta preta; Gelo; 1 talo de aipo (opcional); 1 fatia de limão (opcional)",
+    "modo_preparo": "Encha um copo alto com gelo, adicione a vodka, o suco de tomate, o suco de limão, o molho Worcestershire, o Tabasco, o sal e a pimenta. Misture bem. Decore com um talo de aipo e uma fatia de limão, se desejar. Sirva imediatamente."
+  },
+  {
+    "numero": "14",
+    "nome": "Paloma",
+    "ingredientes": "60 ml de tequila; 120 ml de refrigerante de limão; 60 ml de suco de grapefruit; Uma pitada de sal",
+    "modo_preparo": "Adicione gelo em um copo alto. Adicione a tequila, o suco de grapefruit e a pitada de sal no copo e misture bem. Adicione o refrigerante de limão e misture suavemente. Decore com uma fatia de grapefruit ou limão e sirva imediatamente."
+  },
+  {
+    "numero": "13",
+    "nome": "Penicillin",
+    "ingredientes": "60 ml de uísque de malte defumado; 20 ml de suco de limão fresco; 20 ml de xarope de mel; 1 colher de chá de gengibre fresco ralado; 1 pedra de gelo grande; 1 fatia de gengibre para decorar",
+    "modo_preparo": "Adicione o uísque de malte defumado, o suco de limão fresco, o xarope de mel e o gengibre fresco ralado em uma coqueteleira com gelo. Agite vigorosamente por 15 segundos. Coe a mistura em um copo baixo com uma pedra de gelo grande. Decore com uma fatia de gengibre fresco e sirva."
+  },
+  {
+    "numero": "12",
+    "nome": "Boulevardier",
+    "ingredientes": "45 ml de uísque bourbon; 30 ml de vermute tinto; 30 ml de Campari; Casca de laranja ou cereja para guarnição",
+    "modo_preparo": "Encha um copo misturador com gelo para resfriá-lo. Adicione o uísque bourbon, o vermute tinto e o Campari no copo misturador gelado. Mexa delicadamente com uma colher de bar por cerca de 30 segundos, para misturar os ingredientes e resfriar a mistura. Coloque uma pedra de gelo grande em um copo baixo (tipo Old Fashioned) para resfriá-lo. Usando um coador, despeje a mistura sobre o gelo no copo. Esprema o óleo da casca de laranja sobre o coquetel, torcendo levemente a casca sobre o copo para liberar os aromas. Esfregue a casca de laranja na borda do copo e coloque-a no coquetel como guarnição. Alternativamente, você pode usar uma cereja como guarnição."
+  },
+  {
+    "numero": "11",
+    "nome": "Moscow Mule",
+    "ingredientes": "60 ml de vodka; 20 ml de suco de limão fresco; 120 ml de ginger beer (cerveja de gengibre); Gelo; Ramos de hortelã (para decorar); Fatia de limão (para decorar)",
+    "modo_preparo": "Em um copo Moscow Mule, coloque o gelo até cerca de 2/3 do copo. Despeje a vodka e o suco de limão fresco sobre o gelo. Mexa suavemente os ingredientes no copo. Adicione a ginger beer até quase encher o copo. Decore o copo com uma fatia de limão e ramos de hortelã. Sirva imediatamente."
+  },
+  {
+    "numero": "10",
+    "nome": "Whiskey Sour",
+    "ingredientes": "60 ml de uísque; 30 ml de suco de limão fresco; 15 ml de xarope de açúcar; Gelo",
+    "modo_preparo": "Para fazer o coquetel, coloque todos os ingredientes em uma coqueteleira com gelo e agite bem até esfriar. Em seguida, coe o líquido em um copo com gelo. Se preferir, também pode adicionar uma clara de ovo para deixar a bebida mais cremosa e espumosa e pingar 3 gotas de angostura bitter."
+  },
+  {
+    "numero": "9",
+    "nome": "Mojito",
+    "ingredientes": "60 ml de rum branco; 1/2 limão cortado em fatias; 15 ml de açúcar branco; 8 a 10 folhas de hortelã fresca; Água com gás; Gelo",
+    "modo_preparo": "Coloque o açúcar e as fatias de limão no fundo de um copo e adicione as folhas de hortelã e use um socador para amassá-las levemente, liberando o óleo e o aroma da hortelã. Adicione o rum e mexa suavemente com uma colher de bar. Encha o copo com gelo e água com gás até a borda e mexa suavemente novamente. Enfeite com um ramo de hortelã fresca."
+  },
+  {
+    "numero": "8",
+    "nome": "Manhattan",
+    "ingredientes": "60 ml de uísque americano bourbon; 30 ml de vermute doce; 2 dashes de Angostura bitters; Gelo; Cereja ou casca de laranja para decorar",
+    "modo_preparo": "Para preparar, coloque o uísque, o vermute e os dashes de bitters em uma coqueteleira com gelo e agite bem até resfriar. Em seguida, coe a mistura em um copo de cocktail previamente resfriado. Decore com uma cereja ou casca de laranja."
+  },
+  {
+    "numero": "7",
+    "nome": "Espresso Martini",
+    "ingredientes": "45 ml de vodka; 30 ml de café espresso; 22,5 ml de Kahlúa; Gelo",
+    "modo_preparo": "Prepare o café espresso e deixe esfriar até a temperatura ambiente. Adicione gelo a uma coqueteleira e despeje vodka, café espresso e Kahlúa por cima. Agite a coqueteleira por cerca de 10 segundos até que os ingredientes estejam bem misturados e o líquido fique bem gelado. Despeje a mistura em uma taça de martini resfriada e decore com grãos de café ou raspas de chocolate."
+  },
+  {
+    "numero": "6",
+    "nome": "Aperol Spritz",
+    "ingredientes": "90 ml de Prosecco (vinho espumante branco); 60 ml de Aperol; 30 ml de água com gás; Gelo; 1 fatia de laranja",
+    "modo_preparo": "Encha um copo grande de vinho com gelo até a metade. Adicione o Aperol ao copo. Despeje o Prosecco no copo. Adicione a água com gás ao copo e misture suavemente com uma colher longa. Coloque a fatia de laranja no copo para decorar. Sirva imediatamente e aproveite!"
+  },
+  {
+    "numero": "5",
+    "nome": "Daiquiri",
+    "ingredientes": "60 ml de rum branco; 30 ml de suco de limão fresco; 15 ml de xarope de açúcar (ou açúcar); Gelo",
+    "modo_preparo": "Coloque todos os ingredientes em uma coqueteleira com gelo e agite vigorosamente por cerca de 10 segundos. Coe a mistura em um copo de coquetel previamente gelado. Sirva o seu Daiquiri com uma fatia de limão ou uma folha de hortelã para decorar, se desejar."
+  },
+  {
+    "numero": "4",
+    "nome": "Margarita",
+    "ingredientes": "60 ml de tequila; 30 ml de suco de limão; 30 ml de licor de laranja; Gelo; Sal ou açúcar para decorar (opcional)",
+    "modo_preparo": "Esfregue uma fatia de limão na borda de uma taça de margarita e mergulhe a borda no sal ou açúcar, se desejar e reserve a taça. Numa coqueteleira, adicione a tequila, o suco de limão e o licor de laranja, gelo e agite vigorosamente por cerca de 10 segundos, até que o coquetel fique bem misturado e gelado. Coe o coquetel na taça de margarita. Decore com uma fatia de limão e sirva imediatamente (Opcional)."
+  },
+  {
+    "numero": "3",
+    "nome": "Dry Martini",
+    "ingredientes": "75 ml de gin seco; 15 ml de vermute seco; 1 twist de casca de limão ou azeitona; Gelo",
+    "modo_preparo": "Numa coqueteleira, adicione gelo, o gin, o vermute seco e agite vigorosamente. Coe a mistura em uma taça de martini previamente gelada. Para enfeitar, torça um pedaço de casca de limão sobre a taça para extrair os óleos essenciais e, em seguida, esfregue a casca na borda da taça. Alternativamente, você pode adicionar uma azeitona na borda da taça para enfeitar."
+  },
+  {
+    "numero": "2",
+    "nome": "Old Fashioned",
+    "ingredientes": "1 cubo de açúcar; 2 dashes de Angostura Bitters; 1 colher de chá de água; 60 ml de uísque Bourbon ou Rye; Gelo; 1 twist de laranja; 1 cereja ao marrasquino",
+    "modo_preparo": "Coloque o cubo de açúcar, angostura bitters e a água num copo de uísque e macere até dissolver. Adicione o uísque e encha o copo com gelo. Mexa suavemente com uma colher de bar ou misturador e decore com um twist de laranja e uma cereja ao marrasquino no topo."
+  },
+  {
+    "numero": "1",
+    "nome": "Negroni",
+    "ingredientes": "30 ml de gin; 30 ml de Campari; 30 ml de vermute doce; Gelo; Fatia de laranja ou casca de limão para decorar",
+    "modo_preparo": "Em um copo de vidro baixo com gelo, misture o gin, Campari e vermute doce. Mexa delicadamente com uma colher de bar por cerca de 15 segundos para combinar os ingredientes e esfriar a bebida. Coe a mistura em um copo de vidro cheio de gelo fresco. Decore com uma fatia de laranja ou uma torção de casca de limão."
+  }
+]
