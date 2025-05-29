@@ -15,7 +15,7 @@ const Header = () => {
           <div className="bg-gradient-to-r from-blue-500 to-purple-600 p-2 rounded-full">
             <GlassWater className="h-6 w-6 text-white" />
           </div>
-          <h1 className="text-2xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-purple-600">Drinks AI</h1>
+          <h1 className="text-2xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-purple-600">Drinks</h1>
         </motion.div>
         
         <motion.div 

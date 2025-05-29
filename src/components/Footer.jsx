@@ -14,7 +14,7 @@ const Footer = () => {
             transition={{ duration: 0.5 }}
             className="text-sm text-muted-foreground"
           >
-            <p>© 2025 Receitas & Drinks AI. Todos os direitos reservados.</p>
+            <p>© 2025 Receitas & Drinks. Todos os direitos reservados.</p>
           </motion.div>
           
           <motion.div 
